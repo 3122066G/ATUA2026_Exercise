@@ -1,1 +1,1 @@
-Assignments for Advenced Tools for Urban Analytics.
+Assignments for Advanced Tools for Urban Analytics.
